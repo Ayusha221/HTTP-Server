@@ -1,0 +1,7 @@
+Thu, 12 Nov 2020 21:27:04 INFO     GET / HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     GET /computer.html HTTP/1.1  HostName: Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     HEAD /blog.html HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     POST /post.html HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     PUT /sample.html HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     PUT /overwrite.html HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
+Thu, 12 Nov 2020 21:27:04 INFO     DELETE /nature.jpg HTTP/1.1  HostName: Host:Ayusha_client.p 		UserAgent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729
